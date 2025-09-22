@@ -1,3 +1,4 @@
+from datetime import datetime
 from flask import Flask, render_template
 from flask_bootstrap import Bootstrap
 from flask_moment import Moment
@@ -17,7 +18,7 @@ def internal_server_error(e):
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('index.html', current_time=datetime.utcnow())
 
 
 @app.route('/user/<name>')
