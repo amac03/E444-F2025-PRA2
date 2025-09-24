@@ -7,13 +7,17 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 
 Flask part:
 
-!\[Default](screenshots/Default.png)
+Default
+![Default](screenshots/Default.png)
 
-!\[Name and email](screenshots/NameAndEmail.png)
+Name and email
+![Name and email](screenshots/NameAndEmail.png)
 
-!\[Error](screenshots/Error.png)
+Error 1
+![Error](screenshots/Error.png)
 
-!\[Error2](screenshots/Error2.png)
+Error 2
+![Error2](screenshots/Error2.png)
 
 
 
