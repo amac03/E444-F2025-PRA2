@@ -3,5 +3,17 @@
 Aidan Castanheiro
 This repo is a clone of https://github.com/miguelgrinberg/flasky
 
-testing
+
+
+Flask part:
+
+!\[Default](screenshots/Default.png)
+
+!\[Name and email](screenshots/NameAndEmail.png)
+
+!\[Error](screenshots/Error.png)
+
+!\[Error2](screenshots/Error2.png)
+
+
 
